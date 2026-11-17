@@ -1,4 +1,4 @@
-# General Health Query Chatbot - Task 04
+# General Health Query Chatbot
 
 ## Project Overview
 
